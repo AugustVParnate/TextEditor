@@ -14,7 +14,7 @@ public class SymbolTest {
         assertSame(symbol.getLexemeLength(), 0);
     }
 
-    private void assertSame(int lexemeLength, int i) {
+    private void assertSame(TextPart lexemeLength, TextPart i) {
     }
 
     @Test
